@@ -1,0 +1,4 @@
+streamlit
+colorama
+tensorflow
+scikit-learn
