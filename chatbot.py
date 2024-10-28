@@ -1,6 +1,5 @@
 import json
 import colorama 
-pip install colorama
 colorama.init()
 from colorama import Fore, Style, Back
 
